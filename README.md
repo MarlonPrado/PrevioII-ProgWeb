@@ -9,7 +9,7 @@
   ###  * [License](#license)
   ###  * [Contributors](#contributors)
   ###  * [Tests](#tests)
-  ###  * [Questions](#questions)
+  ###  * [Questions](#informacion de contacto)
 
   ## Installation:
   ### Debes instalar lo siguientes complementos:
@@ -25,9 +25,10 @@
   ### Run the following commands in your terminal to test this app:
   ### para loguearte en la plataforma tiene 2 opciones, registrarte en el formulario o simplemente cargar los 2 siguientes correo y contraseña de prueba: administrador: correo marlonprado@gmail.com contraseña:1234, si se intenta iniciar sesion con una cuenta inexistente en los registros del sistema, notificara un error de usuarios no registrado
 
-  ## Questions:
-  ### If you have any questions, you may contact me at either
-  ### Github: https://github.com/MarlonPrado & BrayanJesusGarcia123
-  ### or
-  ### Email: Mi correo educativo es marlonstivenprod@ufps.edu.co
-
+  ## Informacion de Contacto:
+  ### ¿Preguntas, dudas o inquietudes?, no hay problema, puede contactarnos a traves:
+  ### Github: https://github.com/MarlonPrado & https://github.com/BrayanJesusGarcia123
+  ### o
+  ### correo electronico:  marlonstivenprod@ufps.edu.co
+  
+ # ¡Que tengas un excelente dia :D !
