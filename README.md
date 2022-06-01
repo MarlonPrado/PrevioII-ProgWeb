@@ -79,7 +79,10 @@ DESCRIBE menu;
   
    ## VISTAS:
    ###Se inserta algunas interfaces graficas del proyecto de gestion de usuarios a continuacion:
-   ![alt text](https://www.purina-latam.com/sites/g/files/auxxlc391/files/styles/social_share_large/public/Purina%C2%AE%20Como%20disciplinar%20a%20tu%20gato.jpg?itok=V7Gs6wt3)
+   ![alt text](https://i.ibb.co/sRrptKz/index.png)
+   ![alt text](https://i.ibb.co/qCn4DGK/login.png)
+   ![alt text](https://i.ibb.co/qBwF6nS/menu.png)
+   ![alt text](https://i.ibb.co/3vXGMkw/register.png)
   ## Autores:
   ### Brayan Jesus Garcia & Marlon Stiven Prado - Programacion Web - Grupo A
   ## Tests:
