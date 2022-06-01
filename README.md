@@ -19,7 +19,7 @@
 
   ## Instalacion:
   ### Se requiere la instalacion de NodeJS y MySql para la instalacion del proyecto, en la primera carpeta denominada "database" se encuentra el archivo bd.sql, donde se puede importar a Mysql o PhpMyAdmin para la creacion de la B.D como sus entidades, atributos, relaciones,etc. el comando para correr en consola dicho proyecto es "npm run dev"
-	```bash
+	```node
 	npm run dev
 	```
 
