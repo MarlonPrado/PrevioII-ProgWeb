@@ -87,7 +87,7 @@ DESCRIBE menu;
   
  ### 1. Cargar los siguientes datos de pruebas en el inicio de sesion
  #### correo electronico: marlonprado@gmail.com
-  #### clave: 1234
+  #### clave: 2312
  ### 2. Registrar un usuario dentro de la plataforma a traves del formulario de registro de usuarios
   ## Contacto:
   ### ¿Preguntas, dudas o inquietudes?, no hay problema, puede contactarnos a traves:
