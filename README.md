@@ -3,19 +3,19 @@
   ##  
   ### 
 
-  ## Table of Contents:
+  ## Tabla de Contenido:
   ###  * [Installation](#installation)
-  ###  * [Usage](#usage)
+  ###  * [Utilidad](#usage)
   ###  * [License](#license)
   ###  * [Contributors](#contributors)
   ###  * [Tests](#tests)
   ###  * [Questions](#questions)
 
   ## Installation:
-  ### You must install the following for this app to function:
-  ### Se necesita la instalacion de NodeJS y MYsql para la instalacion del proyecto, en la primera carpeta denominada "database" se encuentra el archivo bd.sql, donde se puede importar a Mysql o PhpMyAdmin para la creacion de la B.D como sus entidades, atributos, relaciones,etc. el comando para correr en consola dicho proyecto es "npm run dev"
+  ### Debes instalar lo siguientes complementos:
+  ### Se requiere la instalacion de NodeJS y MySql para la instalacion del proyecto, en la primera carpeta denominada "database" se encuentra el archivo bd.sql, donde se puede importar a Mysql o PhpMyAdmin para la creacion de la B.D como sus entidades, atributos, relaciones,etc. el comando para correr en consola dicho proyecto es "npm run dev"
 
-  ## Usage:
+  ## Utilidad:
   ### Registrar e iniciar sesion un usuario en la plataforma, definirse un rol como tambien desplegar un menu con opciones especificadas para roles definidos
 
   ## Contributors:
