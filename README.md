@@ -9,7 +9,7 @@
   ###  * [License](#license)
   ###  * [Contributors](#contributors)
   ###  * [Tests](#tests)
-  ###  * [Questions](#informacion de contacto)
+  ###  * [Informacion de Contacto](#informacion de contacto)
 
   ## Installation:
   ### Debes instalar lo siguientes complementos:
