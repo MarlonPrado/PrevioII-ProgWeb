@@ -9,8 +9,7 @@
   ###  * [Installation](#installation)
   ###  * [Utilidad](#utilidad)
   ###  * [Entidades](#entidades)
-  ###  * [DAO](#dao)
-  ###  * [DTO](#dto)
+  ###  * [LOGICA_DEL_NEGOCIO](#logica_del_negocio)
   ###  * [Vistas](#vistas)
   ###  * [License](#license)
   ###  * [Autores](#autores)
@@ -19,7 +18,7 @@
 
   ## Instalacion:
   ### Se requiere la instalacion de NodeJS y MySql para la instalacion del proyecto, en la primera carpeta denominada "database" se encuentra el archivo bd.sql, donde se puede importar a Mysql o PhpMyAdmin para la creacion de la B.D como sus entidades, atributos, relaciones,etc. el comando para correr en consola dicho proyecto es "npm run dev"
-	```node
+	```
 	npm run dev
 	```
 
@@ -73,6 +72,14 @@ DESCRIBE user;
 DESCRIBE rol;
 DESCRIBE menu;
 ```
+  ## LOGICA_DEL_NEGOCIO:
+  ### DAO,DTO y todas las peticiones y consultas en la logica del negocio se abarca en las rutas del proyecto ("routes"), asociada a cada entidad, en el archivos "links.js", esta ubicado los controladores
+  ###de dicho sistema de informacion, cualquier pagina que se desea dirigir o redireccionar se almacena ahi, las peticiones de registor de un usuario (por ejemplo en un formulario tener un llamado de POST) tambien se ubica ahi
+  ### Otras operaciones como el login, validacion de datos usuarios,etc, se abarca en dicho archivo mencionado, denominado "links.js"
+  
+   ## VISTAS:
+   ###Se inserta algunas interfaces graficas del proyecto de gestion de usuarios a continuacion:
+   ![alt text](https://www.purina-latam.com/sites/g/files/auxxlc391/files/styles/social_share_large/public/Purina%C2%AE%20Como%20disciplinar%20a%20tu%20gato.jpg?itok=V7Gs6wt3)
   ## Autores:
   ### Brayan Jesus Garcia & Marlon Stiven Prado - Programacion Web - Grupo A
   ## Tests:
