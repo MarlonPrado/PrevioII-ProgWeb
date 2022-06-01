@@ -5,7 +5,7 @@
 
   ## Tabla de Contenido:
   ###  * [Installation](#installation)
-  ###  * [Utilidad](#usage)
+  ###  * [Utilidad](#utilidad)
   ###  * [License](#license)
   ###  * [Contributors](#contributors)
   ###  * [Tests](#tests)
