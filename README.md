@@ -25,7 +25,7 @@
   ### Run the following commands in your terminal to test this app:
   ### para loguearte en la plataforma tiene 2 opciones, registrarte en el formulario o simplemente cargar los 2 siguientes correo y contraseña de prueba: administrador: correo marlonprado@gmail.com contraseña:1234, si se intenta iniciar sesion con una cuenta inexistente en los registros del sistema, notificara un error de usuarios no registrado
 
-  ## Informacion de Contacto:
+  ## Contacto:
   ### ¿Preguntas, dudas o inquietudes?, no hay problema, puede contactarnos a traves:
   ### Github: https://github.com/MarlonPrado & https://github.com/BrayanJesusGarcia123
   ### o
